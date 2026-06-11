@@ -14,5 +14,6 @@ The latest public release is available under GitHub Releases.
 Supported platforms:
 
 - macOS Apple Silicon
+- macOS X64
 - Windows x64
 - Windows ARM64
